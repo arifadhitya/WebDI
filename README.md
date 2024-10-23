@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
@@ -106,3 +107,6 @@ Contributions are welcome! Please follow these steps to contribute:
 4. Push to the branch (`git push origin feature/your-feature-name`).
 5. Open a pull request.
 
+=======
+# WebDI
+>>>>>>> 4095f7a8255575895257885b6a5274feb3794e2b
